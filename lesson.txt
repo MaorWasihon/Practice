@@ -6,8 +6,6 @@ lesson number
 +
 2
 =
-3
-7
 
 
 bye!
